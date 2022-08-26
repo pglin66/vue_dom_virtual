@@ -6,6 +6,7 @@
  * @FilePath: 
  * @Description: 
 -->
+
 <template>
   <!-- <el-drawer title="询价详情" :visible.sync="drawer" :with-header="false" size="800px"> -->
   <div style="padding: 20px;">
